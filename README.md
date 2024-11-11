@@ -1,4 +1,4 @@
-# Ex-05-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
+# Ex-08-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
 
 ## AIM
 
